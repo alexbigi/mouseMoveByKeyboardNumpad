@@ -2,7 +2,7 @@
 ### platform: Linux
 ### lang: python 3
 ### required: sudo
-
+forked from: https://github.com/sangmank/py-showkey
 #### how to run:
 - clone repo
 - run terminal<br><br>
